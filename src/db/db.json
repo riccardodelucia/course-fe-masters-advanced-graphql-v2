@@ -1,0 +1,94 @@
+{
+  "users": [
+    {
+      "email": "member@member.com",
+      "password": "password",
+      "role": "ADMIN",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1571213104370,
+      "id": "Z2hlvDmLOSRZGebC_Z_aA"
+    },
+    {
+      "email": "master@code.com",
+      "password": "password",
+      "role": "ADMIN",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1706260914215,
+      "id": "GFwsHJ5hycS5FygDoPwnN"
+    },
+    {
+      "email": "b@b.com",
+      "password": "password",
+      "role": "MEMBER",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1706365847466,
+      "id": "PmS-JDUxZGyhujr9jbFs7"
+    }
+  ],
+  "posts": [
+    {
+      "message": "Hello!",
+      "author": "GFwsHJ5hycS5FygDoPwnN",
+      "createdAt": 1706273402735,
+      "id": "nd4Hc09qZJ8mNnAFVERsA"
+    },
+    {
+      "message": "Hello 1!",
+      "author": "GFwsHJ5hycS5FygDoPwnN",
+      "createdAt": 1706273453406,
+      "id": "iXoT9aB126TYU3AHOQbxE"
+    },
+    {
+      "message": "Hello 1!",
+      "author": "GFwsHJ5hycS5FygDoPwnN",
+      "createdAt": 1706273508898,
+      "id": "WTN1YblgDwrjK26sZVKiF"
+    },
+    {
+      "message": "Hello 1!",
+      "author": "GFwsHJ5hycS5FygDoPwnN",
+      "createdAt": 1706273535710,
+      "id": "Tn9uNQzd9XgKxVEimc_iX"
+    },
+    {
+      "message": "Hello 1!",
+      "author": "GFwsHJ5hycS5FygDoPwnN",
+      "createdAt": 1706273641892,
+      "id": "eV2y9wUY8PCVm9WL5zMZt"
+    },
+    {
+      "message": "Hello 1!",
+      "author": "GFwsHJ5hycS5FygDoPwnN",
+      "createdAt": 1706273684283,
+      "id": "V37hX5jiG6P5rUN_JrgEu"
+    },
+    {
+      "message": "Hello 1!",
+      "author": "GFwsHJ5hycS5FygDoPwnN",
+      "createdAt": 1706273736362,
+      "id": "_d6TllGSyUZ7IZPzQtziW"
+    },
+    {
+      "message": "Hello 2!",
+      "author": "GFwsHJ5hycS5FygDoPwnN",
+      "createdAt": 1706273940813,
+      "id": "0HN0Ke_uAEsVOBrfDGB4P"
+    },
+    {
+      "message": "Hello 3!",
+      "author": "Z2hlvDmLOSRZGebC_Z_aA",
+      "createdAt": 1706274521584,
+      "id": "_9SyUW8VkCfBOKIOZ-onj"
+    },
+    {
+      "message": "Hello Sandbox!",
+      "author": "GFwsHJ5hycS5FygDoPwnN",
+      "createdAt": 1706275702589,
+      "id": "otmC_ovwEqW9CRorv8koy"
+    }
+  ],
+  "settings": []
+}
